@@ -7,7 +7,7 @@
 	<copyright>Copyright (C) 2025 Mattes H.</copyright>
 	<license>GNU/GPL license: https://www.gnu.org/copyleft/gpl.html</license>
 	<authorEmail>mattes_h@gmx.net</authorEmail>
-	<authorUrl>https://github.com/mattesh/contentmarkdown</authorUrl>
+	<authorUrl>https://github.com/mattesh/plg_contentmarkdown</authorUrl>
 	<version>1.0.1</version>
 	<description>PLG_CONTENT_CONTENTMARKDOWN_XML_DESCRIPTION</description>
 	<files>
@@ -24,7 +24,7 @@
 	</languages>
 	<updateservers>
 		<server type="extension" priority="1" name="plg_content_contentmarkdown">
-			https://raw.githubusercontent.com/mattesh/contentmarkdown/refs/heads/master/contentmarkdown-stable.xml
+			https://raw.githubusercontent.com/mattesh/plg_contentmarkdown/refs/heads/master/updates/contentmarkdown-stable.xml
 		</server>
 	</updateservers>
 </extension>

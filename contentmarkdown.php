@@ -1,6 +1,6 @@
 <?php
 /**
- * @version    1.0.0
+ * @version    1.0.1
  * @package    contentmarkdown (plugin)
  * @author     Mattes H. mattes_h@gmx.net
  * @copyright  Copyright (c) 2023 Mattes H.
