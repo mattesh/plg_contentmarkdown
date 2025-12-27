@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="content" method="upgrade">
+	<name>plg_content_contentmarkdown</name>
+	<!-- fill these out however you'd like -->
+	<author>Mattes H.</author>
+	<creationDate>09/2025</creationDate>
+	<copyright>Copyright (C) 2025 Mattes H.</copyright>
+	<license>GNU/GPL license: https://www.gnu.org/copyleft/gpl.html</license>
+	<authorEmail>mattes_h@gmx.net</authorEmail>
+	<authorUrl>https://github.com/mattesh/contentmarkdown</authorUrl>
+	<version>1.0.1</version>
+	<description>PLG_CONTENT_CONTENTMARKDOWN_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="contentmarkdown">contentmarkdown.php</filename>
+		<file>readme.md</file>
+		<folder>language</folder>
+		<folder>parsedown</folder>
+	</files>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_content_contentmarkdown.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_content_contentmarkdown.ini</language>
+		<language tag="de-DE">de-DE/de-DE.plg_content_contentmarkdown.sys.ini</language>
+		<language tag="de-DE">de-DE/de-DE.plg_content_contentmarkdown.ini</language>
+	</languages>
+	<updateservers>
+		<server type="extension" priority="1" name="plg_content_contentmarkdown">
+			https://raw.githubusercontent.com/mattesh/contentmarkdown/refs/heads/master/contentmarkdown-stable.xml
+		</server>
+	</updateservers>
+</extension>
+
