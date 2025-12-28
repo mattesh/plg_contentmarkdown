@@ -8,7 +8,7 @@
 	<license>GNU/GPL license: https://www.gnu.org/copyleft/gpl.html</license>
 	<authorEmail>mattes_h@gmx.net</authorEmail>
 	<authorUrl>https://github.com/mattesh/plg_contentmarkdown</authorUrl>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<description>PLG_CONTENT_CONTENTMARKDOWN_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="contentmarkdown">contentmarkdown.php</filename>
